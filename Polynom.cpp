@@ -4,6 +4,7 @@
 #include "cstdlib"
 using namespace std;
 
+Polynom::Polynom(int a);
 Polynom::~Polynom() {
     a.clear();
 }
