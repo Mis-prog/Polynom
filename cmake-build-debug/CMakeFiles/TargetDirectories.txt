@@ -1,0 +1,3 @@
+D:/3sem/Progalabs/Polynom/cmake-build-debug/CMakeFiles/Polynom.dir
+D:/3sem/Progalabs/Polynom/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/3sem/Progalabs/Polynom/cmake-build-debug/CMakeFiles/rebuild_cache.dir
